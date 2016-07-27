@@ -1,0 +1,1 @@
+cmd_/home/kernel_module_lzy/9-下2-总线设备2/key_device_lzy.ko := arm-linux-ld -EL -r  -T /home/armlinux/kernel/linux-ok6410/scripts/module-common.lds --build-id  -o /home/kernel_module_lzy/9-下2-总线设备2/key_device_lzy.ko /home/kernel_module_lzy/9-下2-总线设备2/key_device_lzy.o /home/kernel_module_lzy/9-下2-总线设备2/key_device_lzy.mod.o

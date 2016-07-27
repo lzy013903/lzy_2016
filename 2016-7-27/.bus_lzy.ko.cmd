@@ -1,0 +1,1 @@
+cmd_/home/kernel_module_lzy/8-下2-总线设备1/bus_lzy.ko := arm-linux-ld -EL -r  -T /home/armlinux/kernel/linux-ok6410/scripts/module-common.lds --build-id  -o /home/kernel_module_lzy/8-下2-总线设备1/bus_lzy.ko /home/kernel_module_lzy/8-下2-总线设备1/bus_lzy.o /home/kernel_module_lzy/8-下2-总线设备1/bus_lzy.mod.o

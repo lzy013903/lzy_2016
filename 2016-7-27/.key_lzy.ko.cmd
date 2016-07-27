@@ -1,0 +1,1 @@
+cmd_/home/kernel_module_lzy/7-下1-混杂设备7/key_lzy.ko := arm-linux-ld -EL -r  -T /home/armlinux/kernel/linux-ok6410/scripts/module-common.lds --build-id  -o /home/kernel_module_lzy/7-下1-混杂设备7/key_lzy.ko /home/kernel_module_lzy/7-下1-混杂设备7/key_lzy.o /home/kernel_module_lzy/7-下1-混杂设备7/key_lzy.mod.o
